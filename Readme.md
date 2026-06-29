@@ -164,7 +164,7 @@ inside the **images/** folder.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CodeAlpha-Unemployment-Analysis-with-Python.git
+git clone https://github.com/prince31204/CodeAlpha_Unemployment_Analysis_Python.git
 ```
 
 ### Navigate to Project Folder
@@ -209,7 +209,7 @@ During this project, I learned:
 
 ## 👨‍💻 Author
 
-**Prince Gujjar**
+**Prince Parmar**
 
 MCA (Data Science) Student
 
